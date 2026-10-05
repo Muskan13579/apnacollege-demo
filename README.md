@@ -2,4 +2,4 @@
 
 This is my first Git repository
 
-Author-Muskan 
+Author-Muskan (TIT)
